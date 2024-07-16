@@ -1,0 +1,5 @@
+150 perico calle1 20/1/1995
+130 María calle2 30/3/2000
+120 Jorge calle3 25/2/1998
+140 Pedro calle4 1/2/2001
+160 Oscar calle5 2/8/2002
