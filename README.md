@@ -6,11 +6,11 @@ Proyecto de archivos en c++
   <tr>
     <td>
       <p>Archivo secuencial</p>    
-       <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/3wnWtgML/project1.png" alt="project1"/></a><br/><br/>
+       <img src="https://i.postimg.cc/3wnWtgML/project1.png" alt="project1"/>
     </td>
     <td>
       <p>Archivo Estructurado</p>
-      <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/85cc9jNT/project2.png" alt="project2"/></a><br/><br/>
+    <img src="https://i.postimg.cc/85cc9jNT/project2.png" alt="project2"/>
     </td>
   </tr>
 </table>
