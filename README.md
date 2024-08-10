@@ -5,7 +5,7 @@ Proyecto de archivos en c++
 <table>
   <tr>
     <td>
-      <p>Archivo secuencial</p>    
+      <p>Archivo Secuencial</p>    
        <img src="https://i.postimg.cc/3wnWtgML/project1.png" alt="project1"/>
     </td>
     <td>
